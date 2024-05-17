@@ -1,1 +1,0 @@
-# Test Full-Stack Harbiz
